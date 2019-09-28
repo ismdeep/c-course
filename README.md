@@ -16,3 +16,8 @@
 - [19计算机05、06班作业](/c-course/homework-cs-05-06)
 - [19网络03、04班作业](/c-course/homework-ne-03-04)
 
+
+### 扩展阅读
+
+- [一百个你不应该继续用Dev C++的理由](https://blog.csdn.net/qq_40688707/article/details/81137667)
+
