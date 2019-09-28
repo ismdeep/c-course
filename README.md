@@ -8,6 +8,7 @@
 
 - [C 语言开发环境：Code::Blocks 点击下载](https://ismdeep.oss-cn-shenzhen.aliyuncs.com/c-course-sharing/codeblocks-17.12mingw-setup.exe)
 - [Code::Blocks安装视频教程](https://www.bilibili.com/video/av68587703)
+- [C程序设计语言(K&R).pdf](https://ismdeep.oss-cn-shenzhen.aliyuncs.com/c-course-sharing/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%28K%26R%29%E6%B8%85%E6%99%B0%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 
 
