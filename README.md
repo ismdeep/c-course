@@ -21,5 +21,5 @@
 
 ### 扩展阅读
 
-- [一百个你不应该继续用Dev C++的理由](https://blog.csdn.net/qq_40688707/article/details/81137667)
+- <a href="https://blog.csdn.net/qq_40688707/article/details/81137667" target="_blank">一百个你不应该继续用Dev C++的理由</a>
 
