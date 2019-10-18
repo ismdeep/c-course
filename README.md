@@ -31,4 +31,5 @@
 
 - <a href="https://blog.csdn.net/qq_40688707/article/details/81137667" target="_blank">一百个你不应该继续用Dev C++的理由</a>
 - <a href="https://ismdeep.com/posts/2018-08-04-talking-about-the-importance-of-toss.html" target="_blank">聊聊【折腾】的重要性</a>
+- <a target="_blank" href="http://sohu.com/a/165940792_464086">一位大牛讲述如何学好C语言</a>
 
