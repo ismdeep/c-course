@@ -25,6 +25,7 @@
 
 - [随堂训练](/c-course/training)
     - [第01次随堂训练](/c-course/training/001)
+- [C语言知识整理](/c-course/C-lecture-notes.pdf)
 
 
 ### 扩展阅读
