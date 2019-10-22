@@ -84,3 +84,11 @@
 
 2. 编程题：编程实现输入 $n$ 个整数，实现从小到大排序并输出。
 
+
+<script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
+            "HTML-CSS": {linebreaks: {automatic: true}}
+        });
+</script>
+<script src="//cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
