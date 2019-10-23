@@ -89,6 +89,8 @@
 
     主对角线：从左上到右下。副对角线：从右上到左下。
 
+4. 编程题：在不调用 strlen 函数的情况下实现计算字符串长度。
+
 <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
             tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
