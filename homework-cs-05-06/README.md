@@ -90,6 +90,8 @@
 
 4. 编程题：在不调用 strlen 函数的情况下实现计算字符串长度。
 
+5. 编程题：输入一个字符串，将字符串中的小写字母转换成大小字母，并输出转换后的字符串。
+
 
 <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
