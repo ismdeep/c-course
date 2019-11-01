@@ -1,6 +1,6 @@
 授课老师：江林伟
 
-邮箱地址：[ismdeep@protonmail.com](mailto:ismdeep@protonmail.com)
+邮箱地址：[ismdeep@qq.com](mailto:ismdeep@qq.com)
 
 个人博客：<a href="https://ismdeep.com" target="_blank">https://ismdeep.com</a>
 
