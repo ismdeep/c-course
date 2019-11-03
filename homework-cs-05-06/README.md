@@ -126,7 +126,7 @@
 
 作业内容：
 
-1. 编程题：编程实现 `void strcpy(char *des, char *src)` 函数。实现将 `src` 指针指向的字符串拷贝至 `des` 中。
+1. 编程题：编程实现 `void my_strcpy(char *des, char *src)` 函数。实现将 `src` 指针指向的字符串拷贝至 `des` 中。
 2. 通过自学 `malloc` 函数的使用，编程实现 `void *create_array(int size, int sizeof_item)` 的动态分配内存的函数。并使用这个函数动态分配 `int` 、`double` 、`char` 三种类型动态数组的内存。
 
 <script type="text/x-mathjax-config">
