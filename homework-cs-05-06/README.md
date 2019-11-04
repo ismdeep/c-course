@@ -120,14 +120,45 @@
 
 作业要求：**请在电脑上或作业本上完成，并通过邮箱发送至 ismdeep@qq.com**
 
-邮件标题规则：第07次作业-班级名称-姓名，如：第06次作业-19计算机05班-张三
+邮件标题规则：第07次作业-班级名称-姓名，如：第07次作业-19计算机05班-张三
 
 **注：** 本次作业必须学生自己发送至老师邮箱，不接受班委代发。一次作业一封邮件。通过附件提交C源程序加分。
 
 作业内容：
 
 1. 编程题：编程实现 `void my_strcpy(char *des, char *src)` 函数。实现将 `src` 指针指向的字符串拷贝至 `des` 中。
+
 2. 通过自学 `malloc` 函数的使用，编程实现 `void *create_array(int size, int sizeof_item)` 的动态分配内存的函数，其中 `size` 表示要动态分配数组的元素个数，`sizeof_item` 表示分配的数组元素每个占用内存的大小。并使用这个函数动态分配 `int` 、`double` 、`char` 三种类型动态数组的内存。
+
+    ```c
+    void *create_array(int size, int sizeof_item) {
+        void *a = malloc(sizeof_item * size);
+        return a;
+    }
+    ```
+
+    
+
+---
+
+#### 第 08 次作业
+
+作业发布日期：2019年11月04日
+
+截止提交日期：2019年11月04日
+
+作业要求：**请在电脑上或作业本上完成，并通过邮箱发送至 ismdeep@qq.com**
+
+邮件标题规则：第08次作业-班级名称-姓名，如：第08次作业-19计算机05班-张三
+
+**注：** 本次作业必须学生自己发送至老师邮箱，不接受班委代发。一次作业一封邮件。通过附件提交C源程序加分。
+
+作业内容：
+
+1. 根据第 07 次作业中的 `void *create_array(int size, int sizeof_item)` 的代码，实现 `void **create_matrix(int row, int col, int sizeof_item)` 创建动态二维数组，其中 `row` 表示动态二维数组的行数，`col` 表示动态二维数组的列数，`sizeof_item` 表示每个元素的占用字节大小。函数调用方式：`int **pa = (int **) create_array(4,5,sizeof(int));` 表示创建一个4行5列的动态整数数组。二维数组如何动态分配，请同学们先自学，下次课讲解。
+
+
+
 
 <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
