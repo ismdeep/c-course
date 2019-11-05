@@ -1,8 +1,12 @@
-## [随堂训练](/c-course/training/)
+## [实验课](/c-course/training/)
 
-- [第一次随堂训练](/c-course/training/001)
-    - 19网络3、4班（2019-10-17 第5、6节课）
-    - 19计算机5、6班（2019-10-18 第1、2节课）
+- [第01次实验课](/c-course/training/01)
+- [第02次实验课](/c-course/training/02)
+- [第03次实验课](/c-course/training/03)
+- [第04次实验课](/c-course/training/04)
+- [第05次实验课](/c-course/training/05)
+
+
 
 
 

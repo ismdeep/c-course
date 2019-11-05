@@ -23,8 +23,12 @@
 
 ### 教学资源及教案
 
-- [随堂训练](/c-course/training)
-    - [第01次随堂训练](/c-course/training/001)
+- [实验课](/c-course/training)
+    - [第01次实验课](/c-course/training/01)
+    - [第02次实验课](/c-course/training/02)
+    - [第03次实验课](/c-course/training/03)
+    - [第04次实验课](/c-course/training/04)
+    - [第05次实验课](/c-course/training/05)
 - [C语言知识整理](/c-course/c-lecture-notes.pdf) (更新于 2019-10-29 14:16:10)
 - <a href="https://ismdeep.com/posts/2019-10-28-how-to-compile-c-codes-with-cmd-on-windows.html" target="_blank">如何通过命令行编译并运行程序之Windows版本</a>
 
