@@ -450,7 +450,7 @@ for (初始; 条件; 自增)
 6. `printf` 输出字符串
 
     ```c
-    printf("\{%s\}\n", str);
+    printf("%s\n", str);
     ```
 
 7. 字符串处理函数
