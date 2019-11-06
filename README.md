@@ -30,6 +30,7 @@
     - [第04次实验课](/c-course/training/04)
     - [第05次实验课](/c-course/training/05)
 - [C语言知识整理](/c-course/c-lecture-notes.pdf) (更新于 2019-10-29 14:16:10)
+- [课程源代码](https://github.com/ismdeep/code-practice/tree/master/c-course)
 - <a href="https://ismdeep.com/posts/2019-10-28-how-to-compile-c-codes-with-cmd-on-windows.html" target="_blank">如何通过命令行编译并运行程序之Windows版本</a>
 
 ### 扩展阅读
