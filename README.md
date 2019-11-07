@@ -39,3 +39,7 @@
 - <a href="https://ismdeep.com/posts/2018-08-04-talking-about-the-importance-of-toss.html" target="_blank">聊聊【折腾】的重要性</a>
 - <a target="_blank" href="http://sohu.com/a/165940792_464086">一位大牛讲述如何学好C语言</a>
 
+-----
+
+@ismdeep
+
