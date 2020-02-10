@@ -34,7 +34,7 @@
 - <a href="/c-course/c-review.pdf" target="_blank">C语言程序设计复习题</a>
 - <a href="/c-course/c-review-2.pdf" target="_blank">C语言程序设计复习题第二份</a>
 - <a href="https://ismdeep.com/posts/2019-10-28-how-to-compile-c-codes-with-cmd-on-windows.html" target="_blank">如何通过命令行编译并运行程序之Windows版本</a>
-- <a href="https://www.bilibili.com/video/av75301720/" target="_blank">Windows 10 配置 MinGW 开发环境</a>
+- <a href="https://www.bilibili.com/video/av75301720/" target="_blank">【视频】Windows 10 配置 MinGW 开发环境</a>
 
 ### 扩展阅读
 
