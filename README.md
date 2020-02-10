@@ -1,4 +1,4 @@
-授课老师：江林伟
+授课老师：江木
 
 邮箱地址：[ismdeep@qq.com](mailto:ismdeep@qq.com)
 
