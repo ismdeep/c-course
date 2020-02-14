@@ -12,7 +12,7 @@
 - <a target="_blank" href="https://www.runoob.com/cprogramming/c-tutorial.html">C语言教程 ｜ 菜鸟教程</a>
 - <a target="_blank" href="https://www.icourse163.org/course/ZJU-9001">C语言程序设计视频教程｜浙江大学｜翁恺</a>
 - <a target="_blank" href="https://www.dotcpp.com/oj/problemset.html">C语言网｜刷题网站｜C语言训练网站</a>
-<!-- - <a target="_blank" href="https://oj.ismdeep.com">JustOJ编程训练平台</a> -->
+- <a target="_blank" href="https://oj.ismdeep.com">JustOJ在线测评系统</a>
 <!-- - <a target="_blank" href="https://oj.ismdeep.com/group?id=50">JustOJ上的省级精品跨校选课班级题目列表</a> -->
 
 
