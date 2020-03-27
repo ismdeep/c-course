@@ -7,7 +7,7 @@
 ### 资源
 
 - <a href="https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download" target="_blank">C 语言开发环境：Code::Blocks 点击下载（下载地址一）</a>
-- <a href="https://ismdeep.oss-cn-shenzhen.aliyuncs.com/software/codeblocks-17.12mingw-setup.exe" target="_blank">C 语言开发环境：Code::Blocks 点击下载（下载地址二），国内下载速度较快</a>
+- <a href="https://ismdeep.oss-accelerate.aliyuncs.com/software/codeblocks-17.12mingw-setup.exe" target="_blank">C 语言开发环境：Code::Blocks 点击下载（下载地址二），国内下载速度较快</a>
 - <a href="https://www.bilibili.com/video/av68587703" target="_blank">Code::Blocks安装视频教程</a>
 - <a href="/c-course/c-programming-language-k-r.pdf" target="_blank">C程序设计语言(K&R).pdf</a>
 - <a target="_blank" href="https://www.runoob.com/cprogramming/c-tutorial.html">C语言教程 ｜ 菜鸟教程</a>
