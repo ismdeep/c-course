@@ -7,14 +7,11 @@
 ### 资源
 
 - <a href="https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download" target="_blank">C 语言开发环境：Code::Blocks 点击下载（下载地址一）</a>
-- <a href="https://ismdeep.oss-cn-shenzhen.aliyuncs.com/software/codeblocks-17.12mingw-setup.exe" target="_blank">C 语言开发环境：Code::Blocks 点击下载（下载地址二），国内下载速度较快</a>
-- <a href="https://www.bilibili.com/video/av68587703" target="_blank">Code::Blocks安装视频教程</a>
 - <a href="/c-course/c-programming-language-k-r.pdf" target="_blank">C程序设计语言(K&R).pdf</a>
 - <a target="_blank" href="https://www.runoob.com/cprogramming/c-tutorial.html">C语言教程 ｜ 菜鸟教程</a>
 - <a target="_blank" href="https://www.icourse163.org/course/ZJU-9001">C语言程序设计视频教程｜浙江大学｜翁恺</a>
 - <a target="_blank" href="https://www.dotcpp.com/oj/problemset.html">C语言网｜刷题网站｜C语言训练网站</a>
 - <a target="_blank" href="https://oj.ismdeep.com">JustOJ在线测评系统</a>
-<!-- - <a target="_blank" href="https://oj.ismdeep.com/group?id=50">JustOJ上的省级精品跨校选课班级题目列表</a> -->
 
 
 ### 作业
