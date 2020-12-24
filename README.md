@@ -29,10 +29,7 @@
     - [第05次实验课](/c-course/training/05)
 - [C语言知识整理](/c-course/c-lecture-notes) (更新于 2019-10-29 14:16:10)
 - [课程源代码](https://github.com/ismdeep/code-practice/tree/master/c-course)
-- <a href="/c-course/c-review.pdf" target="_blank">C语言程序设计复习题</a>
-- <a href="/c-course/c-review-2.pdf" target="_blank">C语言程序设计复习题第二份</a>
 - <a href="https://ismdeep.com/posts/2019-10-28-how-to-compile-c-codes-with-cmd-on-windows.html" target="_blank">如何通过命令行编译并运行程序之Windows版本</a>
-- <a href="https://www.bilibili.com/video/av75301720/" target="_blank">【视频】Windows 10 配置 MinGW 开发环境</a>
 
 ### 扩展阅读
 
