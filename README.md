@@ -1,4 +1,4 @@
-授课老师：江木
+授课老师：L. Jiang
 
 邮箱地址：[l.jiang.1024@gmail.com](mailto:l.jiang.1024@gmail.com)
 
