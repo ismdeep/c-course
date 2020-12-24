@@ -2,9 +2,9 @@
 
 *2019年C语言程序设计课程讲义资料*
 
-*Author: Del Cooper*
+*Author: L. Jiang*
 
-*Email: ismdeep@protonmail.com*
+*Email: l.jiang.1024@gmail.com*
 
 
 
