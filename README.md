@@ -1,6 +1,6 @@
 授课老师：江木
 
-邮箱地址：[ismdeep@qq.com](mailto:ismdeep@qq.com)
+邮箱地址：[l.jiang.1024@gmail.com](mailto:l.jiang.1024@gmail.com)
 
 个人博客：<a href="https://ismdeep.com" target="_blank">https://ismdeep.com</a>
 
