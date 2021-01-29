@@ -1,4 +1,4 @@
-授课老师：L. Jiang
+授课老师：Dr. Jiang
 
 邮箱地址：[l.jiang.1024@gmail.com](mailto:l.jiang.1024@gmail.com)
 
@@ -39,5 +39,5 @@
 
 -----
 
-*真正的大师永远都怀着一颗学徒的心。*         @ismdeep
+*真正的大师永远都怀着一颗学徒的心。*         @Dr.Jiang
 
